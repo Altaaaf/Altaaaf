@@ -1,5 +1,5 @@
-<h1 align="center">Hello I'm Altaaf</h1>
-<h3 align="center">Passionate software developer</h3>
+<h1 align="center">Hello I'm Altaaf Ali</h1>
+<h3 align="center">Junior Software Developer</h3>
 
 - 📫 How to reach me **Altaaf-Ali@Outlook.com**
 
@@ -22,4 +22,3 @@
 
 
 </p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Altaaaf&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false" alt="" /></p>
-
